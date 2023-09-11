@@ -1,6 +1,6 @@
 # My Simple ChatGPT
 
-![frame_1]()
+![frame_1](https://github.com/shennguyenrs/ai-chat-app/assets/17680161/faaaf2fe-654e-4986-8425-67968a775727)
 
 ## Overview
 
