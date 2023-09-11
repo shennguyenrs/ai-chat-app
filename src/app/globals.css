@@ -1,0 +1,23 @@
+@import "@unocss/reset/tailwind.css";
+@unocss all;
+
+.dotted-bg {
+  background-image: radial-gradient(circle, #e0e0e0 1px, transparent 1px);
+  background-size: 30px 30px;
+}
+
+.dark .dotted-bg {
+  background-image: radial-gradient(circle, #444444 1px, transparent 1px);
+}
+
+ul {
+  @apply list-disc pl-4;
+}
+
+ol {
+  @apply list-decimal pl-4;
+}
+
+li {
+  @apply py-2;
+}
